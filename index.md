@@ -8,7 +8,7 @@
 layout: page
 ---
 
-![D](assets/images/daphne_headshot.jpg)
+![Daphne Han](assets/images/daphne_headshot.jpg)
 
 I am a first year undergraduate student majoring in [Computational Biology](https://cbd.cmu.edu/) and minoring in [Design for Learning](https://ideate.cmu.edu/) on the Pre-Med track at [Carnegie Mellon University](https://www.cmu.edu/). 
 
