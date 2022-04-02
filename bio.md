@@ -5,16 +5,10 @@ permalink: /bio/
 ---
 
 ## Short Biography
-Zackory Erickson is an Assistant Professor in The Robotics Institute at Carnegie Mellon University, 
-where he leads the Robotic Caregiving and Human Interaction (RCHI) Lab.
-His research focuses on developing new computational, control, and sensing methods for intelligent physical human-robot interaction and healthcare robots.
-Zackory received his PhD in Robotics and M.S. in Computer Science from Georgia Tech and B.S. in Computer Science at the University of Wisconsin--La Crosse. 
+Daphne Han is a first year undergraduate student in the School of Computer Science at Carnegie Mellon University majoring in Computational Biology.
+Her interests lie mainly in utilizing and creating innovative technology for social good primarily in the health/medical fields as well as research/design in these areas.
 
 ## Full Biography
-Zackory Erickson is an Assistant Professor in The Robotics Institute at Carnegie Mellon University, 
-where he leads the Robotic Caregiving and Human Interaction (RCHI) Lab.
-His research focuses on developing new computational, control, and sensing methods for intelligent physical human-robot interaction and healthcare robots.
-Zackory's work spans physical human-robot interaction, healthcare robotics, robot learning, physics simulation, multimodal perception, and mobile manipulation.
-Prior to joining CMU, Zackory received his PhD in Robotics from Georgia Tech with Prof. Charlie Kemp. 
-He also received an M.S. in Computer Science from Georgia Tech and B.S. in Computer Science at the University of Wisconsin--La Crosse.
-His work has won the Best Student Paper Award at ICORR 2019 and a Best Paper in Service Robotics finalist at ICRA 2019.
+Daphne Han is a first year undergraduate student in the School of Computer Science at Carnegie Mellon University majoring in Computational Biology.
+Her interests lie mainly in utilizing and creating innovative technology for social good primarily in the health/medical fields as well as research/design in these areas.
+She has worked in math education, science communication, and bioinformatics research. She has also led and been a part of efforts in providing greater accessibility to communities on a variety of disciplines.
