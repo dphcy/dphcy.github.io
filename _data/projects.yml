@@ -1,0 +1,31 @@
+# Find and Delete these: ’
+
+- title: "Comparative Analysis of Haplotype Assembly Algorithms"
+  authors: Shuying Sun, Flora Cheng, Daphne Han, Sarah Wei, and Alice Zhong
+  year: 2020
+  type: conference
+  venue: 2022 TXST Health Scholars, 2020 ICSA, 2020 TXST Graduate Expo, 2020 Mathworks HSMC Research Project
+  image: ../assets/images/2020HAcompPoster.jpg
+  id: sunchenghanweizhong2020comparativeHA
+  projectpage: https://posterpresentations.wp.txstate.edu/home/mathematics/sun/
+  code:
+  bibitex:
+  abstract: "Haplotype information is useful for studying genetic variation, which can then be used to determine trait or disease association in a population. Haplotype assembly is a useful way that enables us to interpret genetic variations and its impacts. In this paper, we will be comparing various haplotype assembly algorithms to assess the advantages and disadvantages of each. We will do this by running multiple algorithms across a multitude of datasets to compare their accuracy and efficiency, as well as other algorithmic components. This comparison analysis is important because each algorithm has its own benefits and drawbacks, and it is necessary to compare all of them in order to develop more accurate algorithms in the future."
+  awards:
+  video:
+  pdf:
+
+- title: "Effects of Varying Subgroup Vaccination Rates on Risk of Herd Immunity Deterioration"
+  authors: Lauren Ancel Meyers, Alexander White, Daphne Han, Tara Roshan, Allison Yang, Hannah Zhang
+  year: 2019
+  type: program
+  venue: 2019 Mathworks HSMC Research Project
+  image:
+  id: meyerswhitehanroshanyangzhang2019epi
+  projectpage:
+  code:
+  bibitex:
+  abstract: "In this paper, we investigate the future probabilities and concerns of areas with high CVE rates, which have been found to be positively correlated with the white race and higher degree of education. We implement stochastic block modeling, rather than risk models, in order to predict future outbreaks in susceptible regions of Texas. Furthermore, we will implement the usage of SIR models and graph theory to investigate the outbreak patterns of various diseases. All of this will be done with R"
+  awards:
+  video:
+  pdf:
