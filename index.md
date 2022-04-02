@@ -29,9 +29,4 @@ daphneh@andrew.cmu.edu
 **LinkedIn**
 [LinkedIn](https://www.linkedin.com/in/daphne-han-410204188/)
 
----
-
-### Extra links
-You can find a recording of my Robotics PhD Defense at Georgia Tech here: [https://youtu.be/3DYv8SlaP2w](https://youtu.be/3DYv8SlaP2w)
-
-In 2016, I participated in the 4th Heidelberg Laureate Forum. Here are [some photos from the 4th HLF](https://zackory.com/hlf4/).
+**Medium**
