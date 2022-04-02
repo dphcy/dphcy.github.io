@@ -8,13 +8,15 @@
 layout: page
 ---
 
-![Daphne Han](assets/images/daphne_headshot.jpg)
+![D](assets/images/daphne_headshot.jpg)
 
 I am a first year undergraduate student majoring in [Computational Biology](https://cbd.cmu.edu/) and minoring in [Design for Learning](https://ideate.cmu.edu/) on the Pre-Med track at [Carnegie Mellon University](https://www.cmu.edu/). 
 
 Currently, I am a member of the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io) led by [Dr. Zackory Erickson](https://zackory.com/).
 
+On campus, I am the Director of New Recognition in the Committee on Student Organizations (CoSO), a member of pre-health fraternity Alpha Epsilon Delta (AED), member in ScottyLabs, and a regular volunteer at UPMC Shadyside.
 
+Previously, I have worked
 
 ---
 
