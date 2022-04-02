@@ -8,14 +8,13 @@
 layout: page
 ---
 
-![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
+![Daphne Han](assets/images/daphne_headshot.jpg)
 
-I am a tenure-track Assistant Professor in [The Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), where I lead the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io).
-My research explores intelligent physical human-robot interaction, with applications in healthcare robotics.
+I am a first year undergraduate student majoring in [Computational Biology](https://cbd.cmu.edu/) and minoring in [Design for Learning](https://ideate.cmu.edu/) on the Pre-Med track at [Carnegie Mellon University](https://www.cmu.edu/). 
 
-Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Kemp](https://charliekemp.com).
+Currently, I am a member of the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io) led by [Dr. Zackory Erickson](https://zackory.com/).
 
-Note for Fall 2022 applicants: I will likely be looking for 1 to 2 graduate students.
+
 
 ---
 
