@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Projects
+permalink: /projects/
 ---
-
-<h4><a href="https://scholar.google.com/citations?user=wElkTtIAAAAJ&hl=en">Google Scholar</a></h4>
 
 <script>
 function showhide(d) {
@@ -18,7 +16,7 @@ function showhide(d) {
 </script>
 
 <table cellpadding="10" width="100%">
-{% for pub in site.data.publications %}
+{% for pub in site.data.projects %}
     {% assign authors = {{pub.authors}} | split: ", " %}
     <tr>
         <td width="200" height="100">
