@@ -16,37 +16,18 @@ Currently, I am a member of the [Robotic Caregiving and Human Interaction (RCHI)
 
 On campus, I am the Director of New Recognition in the Committee on Student Organizations (CoSO), a member of pre-health fraternity Alpha Epsilon Delta (AED), member in ScottyLabs, and a regular volunteer at UPMC Shadyside.
 
-Previously, I have worked
-
----
-
-### News
-
-  * Invited talk at IROS 2021 workshop on [Proximity Perception in Robotics](https://www.proxelsandtaxels.org/en/)
-  * Organizing an ICRA 2021 workshop [Learning for Caregiving Robots](https://sites.gatech.edu/learning-caregiving-icra2021/)
-  * Invited talk at ICRA 2021 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2021/)
+Previously, I have worked under Dr. Shuying Sun at Texas State University on analyzing haplotype assembly algorithms. I have also worked with Dr. Alexander White and Dr. Lauren Ancel Meyers of Texas State University and University of Texas at Austin on analyzing consciencious vaccination exemption rates on effects of herd immunity. I also have significant experience in math education and science communication.
 
 ---
 
 ### Contact
-**Calendar**: [Free/busy Calendar](https://calendar.google.com/calendar/embed?src=zerickso%40andrew.cmu.edu&ctz=America%2FNew_York&mode=WEEK)  
-Please check my calendar to see if I am available prior to suggesting a meeting time.
 
-**Office**: [Newell-Simon Hall](https://map.concept3d.com/?id=192#!m/15786) 4627
 
-**Address**  
-Carnegie Mellon University  
-Robotics Institute  
-5000 Forbes Ave  
-Pittsburgh, PA 15213 USA
+**Email**
+daphneh@andrew.cmu.edu
 
----
-
-### Teaching
-
-Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
-Spring 2021: [BMED 4833/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2021-spring/)  
-Spring 2020: [BMED 4803/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2020-spring/)  
+**LinkedIn**
+[LinkedIn](https://www.linkedin.com/in/daphne-han-410204188/)
 
 ---
 
