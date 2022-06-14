@@ -10,7 +10,7 @@ layout: page
 
 ![Daphne Han](assets/images/daphne_headshot.jpg)
 
-I am a first year undergraduate student majoring in [Computational Biology](https://cbd.cmu.edu/) and minoring in [Design for Learning](https://ideate.cmu.edu/) on the Pre-Med track at [Carnegie Mellon University](https://www.cmu.edu/). 
+I am a rising second year undergraduate student majoring in [Computational Biology](https://cbd.cmu.edu/) and minoring in [Design for Learning](https://ideate.cmu.edu/) on the Pre-Med track at [Carnegie Mellon University](https://www.cmu.edu/). 
 
 Currently, I am a member of the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io) led by [Dr. Zackory Erickson](https://zackory.com/).
 
