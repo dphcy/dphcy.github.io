@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 :root {
-    --color-base: #b4b4b8;
-    --color-heading: #f6f5f1;
-    --color-body: #f2efe5;
-    --color-brand: #c7c8cc;
-    --color-brand2: #898172;
+    --color-body: #93b1a6;
+    --color-heading: #5c8374;
+    --color-base: #eefafa;
+    --color-brand: #183d3d;
     --navbar-width: 240px;
     --font-base: "Roboto";
 }
@@ -23,16 +22,21 @@ h1,h2,h3,h4,h5,h6 {
 
 a {
     text-decoration: none;
-    color: var(--color-body);
+    color: var(--color-heading);
     transition: all 0.4s ease;
 }
 
 a:hover {
-    color: var(--color-brand2)
+    color: var(--color-brand)
 }
 
 img {
     width: 100%
+}
+
+.text-brand {
+    color: var(--color-brand);
+    font-weight: 400px;
 }
 
 .full-height{
@@ -41,18 +45,34 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 .navbar .nav-link {
-    font-weight: 700;
+    font-weight: 400;
     text-transform: lowercase;
-    color: var(--color-body);
+    color: var(--color-heading);
 }
 
 .navbar .nav-link:hover {
-    color: var(--color-brand2)
+    color: var(--color-brand)
 }
 
 
 @media (min-width: 992px) {
+}
+
+.btn {
+    padding: 12px 28px;
+    font-weight: 700;
+    border-color: var(--color-body); 
+    color: var(--color-body);
+}
+
+.btn:hover,
+.btn:focus{
+    color: var(--color-base);
+    background-color: var(--color-body);
 }
