@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-    color: var(--color-brand)
+    color: var(--color-brand);
 }
 
 img {
@@ -68,6 +68,10 @@ img {
     border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 }
 
+/* #navbar{
+    position: fixed;
+} */
+
 .navbar .nav-link {
     font-weight: 400;
     text-transform: lowercase;
@@ -75,7 +79,11 @@ img {
 }
 
 .navbar .nav-link:hover {
-    color: var(--color-brand)
+    color: var(--color-brand);
+}
+
+.navbar .nav-link.active{
+    color: var(--color-brand);
 }
 
 
