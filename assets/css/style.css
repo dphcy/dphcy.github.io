@@ -54,7 +54,7 @@ img {
 }
 
 .shadow-effect:hover {
-    box-shadow: -6px 6px 0 0 var(--color-brand);
+    box-shadow: 6px 6px 6px 6px var(--color-brand);
 }
 
 .full-height{
