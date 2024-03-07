@@ -4,6 +4,7 @@
     --color-body: #93b1a6;
     --color-heading: #5c8374;
     --color-base: #eefafa;
+    --color-base2: #d9e9e9;
     --color-brand: #183d3d;
     --navbar-width: 240px;
     --font-base: "Roboto";
@@ -37,6 +38,23 @@ img {
 .text-brand {
     color: var(--color-brand);
     font-weight: 400px;
+}
+
+.text-title {
+    color: var(--color-heading);
+    font-weight: 400px;
+}
+.bg-base {
+    border-color: var(--color-body);
+    /* color: var(--color-brand); */
+}
+
+.shadow-effect{
+    transition: all 0.4s;
+}
+
+.shadow-effect:hover {
+    box-shadow: -6px 6px 0 0 var(--color-brand);
 }
 
 .full-height{
@@ -75,4 +93,24 @@ img {
 .btn:focus{
     color: var(--color-base);
     background-color: var(--color-body);
+}
+
+.link-custom {
+    font-weight: 700;
+    position: relative;
+}
+
+.link-custom::after {
+    content: "";
+    width: 0%;
+    height: 2px;
+    background-color: var(--color-brand);
+    position: absolute;
+    left: 0;
+    top: 110%;
+    transition: all 0.4s;
+}
+
+.link-custom:hover::after{
+    width: 100%;
 }
