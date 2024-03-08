@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv=""X-UA-Compatible" content="IE=edge">
-    <meta name=""viewport" content="width=device-width, initial-scale = 1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale = 1.0">
     <title>Daphne Han</title>
+    <!-- <img src="./assets/images/icon.png"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="./assets/images/favicon.ico">
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/css/aos.css">
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -12,12 +14,18 @@
 <body data-bs-spy="scroll" data-bs-target=".navbar">
     <!-- navigation bar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
-        <div class="container">
-          <a class="navbar-link" href="#"">
+        <div class="container-fluid">
+          <a class="navbar mx-lg-auto mb-lg4" href="#"">
+            <div class="nav-image">
+                <img src = "./assets/images/icon.png" alt="">
+            </div>
+            
             <span class="h2 fw-400"> daphne han </span>
-            <!-- <img src =  -->
+            
         </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"></button>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
               <li class="nav-item">
@@ -43,9 +51,9 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 data-aos="fade-up">computational biologist + researcher</h1>
-                        <p class="lead" data-aos="fade-up" data-aos-delay="300">aspiring researcher interested in early cancer detection.</p>
+                        <p class="lead" data-aos="fade-up" data-aos-delay="300">aspiring translational researcher interested in exploring cancer mutation, cell growth, and early cancer detection.</p>
                         <p class ="lead" data-aos="fade-up" data-aos-delay="300"><span class="fw-bold">computational biology</span> and <span class="fw-bold">design for learning</span> at carnegie mellon university.</p>
-                        <a href="#projects" class="btn btn-outline" data-aos="fade-up" data-aos-delay="600">see my projects</a>
+                        <a href="#projects" class="btn btn-outline floating" data-aos="fade-up" data-aos-delay="600">see my projects</a>
                     </div>
                 </div>
             </div>
@@ -97,24 +105,41 @@
         <!-- about start -->
         <section id="about" class="full-height px-lg-5">
             <div class="container">
-                <div class="row" data-aos="fade-up">
+                <div class="row pb-4" data-aos="fade-up">
                     <div class="col-lg-8">
                         <h4 class="text-brand">about me</h4>
                         <h1>hi, i'm daphne</h1>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md" data-aos="fade-up" data-aos-delay="300">
-                        <p>
-                            I'm currently a junior at Carnegie Mellon Univeresity in the School of Computer Science,
-                            studying Computational Biology with a minor in IDEATE: Design for Learning.
-                        </p>
-                        <a href="https://suannazhong.com" class="link-custom">
-                            Photo by Suanna Zhong
-                        </a>
+                <div class="row gy-4">
+                    <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
+                        <div class="custom-content p-4">
+                            <p>
+                                I'm currently a junior at Carnegie Mellon Univeresity in the School of Computer Science,
+                                studying <a href="https://cbd.cmu.edu/" class="fw-bold">Computational Biology</a> with a minor in <a href = "https://ideate.cmu.edu/undergraduate-programs/design-for-learning/index.html" class="fw-bold">IDeATe: Design for Learning </a>.
+                            </p>
+                            <p>
+                                I currently work as a research intern in the <a href = "http://scheet.org/" class="fw-bold">Scheet Lab</a> at MD Anderson Cancer Center, studying fragmentomics as a biomarker for early cancer detection.
+                                At school, I work as a teaching assistant for <a href="https://www.cs.cmu.edu/~112/" class="fw-bold">15-112 Fundamentals of Programming and Computer Science</a> and I serve as the Student Government Director of
+                                Organizations.
+                            </p>
+
+                            <p>
+                                In my free time, I like to skateboard, draw/paint, dabble in film photography, and travel.
+                            </p>
+
+                            <p>
+                                <a href="mailto:daphnehan@cmu.edu"> <u>Email</u></a> / <a href="https://scholar.google.com/citations?user=dZSNVxoAAAAJ"><u>Google Scholar</u></a> / <a href="https://www.linkedin.com/in/daphnehan/"><u>LinkedIn</u></a>/ <a href="./assets/documents/Daphne.Han.Resume.pdf" target="_blank"><u>Resume</u></a>
+                            </p>
+                            <a href="https://suannazhong.com"> <u>
+                                Photo by Suanna Zhong
+                            </u></a>
+                        </div>
                     </div>
-                    <div class="col-md floating" data-aos="fade-up" data-aos-delay="600">
-                        <img src="./assets/images/dh-headshot.jpg" class="d-none d-lg-block rounded-circle">
+                    <div class="col-md-6 floating" data-aos="fade-up" data-aos-delay="600">
+                        <div class="custom-image">
+                            <img src="./assets/images/dh-headshot.jpg" class="rounded-circle">
+                        </div>
                     </div>
                 </div>
             </div>

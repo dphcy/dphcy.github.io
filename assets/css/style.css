@@ -63,15 +63,14 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 }
 
-/* #navbar{
-    position: fixed;
-} */
-
+.navbar {
+    background-color: var(--color-base);
+}
 .navbar .nav-link {
     font-weight: 400;
     text-transform: lowercase;
@@ -86,9 +85,9 @@ img {
     color: var(--color-brand);
 }
 
-
-/* @media (min-width: 992px) {
-} */
+.navbar .nav-image {
+    transform: scale(0.8);
+}
 
 .btn {
     padding: 12px 28px;
@@ -130,8 +129,13 @@ img {
     animation-timing-function: ease-in-out;
 }
 
+.custom .custom-image{
+    overflow: hidden;
+}
+
 @keyframes floating {
     0% {transform: translate(0, 0px);}
     50% {transform: translate(0, 15px);}
     100% {transform: translate(0, -0px);}
 }
+
