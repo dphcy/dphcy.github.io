@@ -54,7 +54,7 @@ img {
 }
 
 .shadow-effect:hover {
-    box-shadow: 6px 6px 6px 6px var(--color-brand);
+    box-shadow: -4px 4px 0 0 var(--color-brand);
 }
 
 .full-height{
@@ -87,8 +87,8 @@ img {
 }
 
 
-@media (min-width: 992px) {
-}
+/* @media (min-width: 992px) {
+} */
 
 .btn {
     padding: 12px 28px;
@@ -121,4 +121,17 @@ img {
 
 .link-custom:hover::after{
     width: 100%;
+}
+
+.floating {
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes floating {
+    0% {transform: translate(0, 0px);}
+    50% {transform: translate(0, 15px);}
+    100% {transform: translate(0, -0px);}
 }
